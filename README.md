@@ -45,7 +45,7 @@ Here are some ideas to get you started:
       <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"  width="40" height="40" alt="Figma" /></a>
   </div>
 
-#### My GitHub Stats
+#### :octocat:&nbsp; My GitHub Stats
 
 ---
 <a href="http://www.github.com/pshptr">
