@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 
 #### :octocat:&nbsp; My GitHub Stats
 
----
 <a href="http://www.github.com/pshptr">
     <img src="https://github-readme-stats-beta-ten-21.vercel.app/api?username=pshptr&show_icons=true&hide=issues,&count_private=true&title_color=2F80ED&text_color=ffffff&icon_color=2F80ED&bg_color=020887&hide_border=true&show_icons=true&show=prs_merged,prs_merged" alt="pshptr's GitHub stats" />
 </a>
