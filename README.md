@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 * 🔭 Currently studying iOS dev (Swift, SwiftUI, CoreData)
 
 <div>
-    <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+    <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?aw=true" width="500" height="320" />
 </div>
       
 
