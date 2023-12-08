@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 * 🔭 Currently studying iOS dev (Swift, SwiftUI, CoreData)
 
-### 💻 &nbsp; Tech Stack
+ <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />      
+
+ ### 💻 &nbsp; Tech Stack
 
 <div style="display: flex; gap: 5px">
    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="40" height="40" alt="Java" /></a>
@@ -48,15 +50,15 @@ Here are some ideas to get you started:
 ### :octocat:&nbsp; My GitHub Stats
 
 <a href="http://www.github.com/pshptr">
-    <img src="https://github-readme-stats-beta-ten-21.vercel.app/api?username=pshptr&show_icons=true&hide=issues,&count_private=true&title_color=2F80ED&text_color=ffffff&icon_color=2F80ED&bg_color=020887&hide_border=true&show_icons=true&show=prs_merged,prs_merged" alt="pshptr's GitHub stats" />
+    <img src="https://github-readme-stats-beta-ten-21.vercel.app/api?username=pshptr&show_icons=true&hide=issues,&count_private=true&title_color=2F80ED&text_color=ffffff&icon_color=2F80ED&bg_color=003141&hide_border=true&show_icons=true&show=prs_merged,prs_merged" alt="pshptr's GitHub stats" />
 </a>
 
 <a href="http://www.github.com/pshptr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshptr&hide_progress=true&show_icons=true&locale=en&layout=compact&text_color=fff&bg_color=020887&langs_count=8&hide_border=true" alt="pshptr" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshptr&hide_progress=true&show_icons=true&locale=en&layout=compact&text_color=fff&bg_color=003141&langs_count=8&hide_border=true" alt="pshptr" />
 </a>
 
 <a href="http://www.github.com/pshptr">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pshptr&stroke=ffffff&background=020887&ring=2F80ED&fire=2F80ED&currStreakNum=ffffff&currStreakLabel=2F80ED&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pshptr&stroke=ffffff&background=003141&ring=2F80ED&fire=2F80ED&currStreakNum=ffffff&currStreakLabel=2F80ED&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
 ---
