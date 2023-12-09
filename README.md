@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="http://www.github.com/pshptr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshptr&hide_progress=true&show_icons=true&locale=en&layout=compact&text_color=fff&bg_color=003141&langs_count=8&hide_border=true" alt="pshptr" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshptr&hide_progress=true&show_icons=true&locale=en&layout=compact&text_color=fff&bg_color=003141&langs_count=7&hide_border=true" alt="pshptr" />
 </a>
 
 <a href="http://www.github.com/pshptr">
