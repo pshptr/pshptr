@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ###  I'm a tech uni student
 
-* 🔭 Currently studying iOS dev (Swift, SwiftUI, CoreData)
+* 🔭 Currently studying iOS dev (Swift, SwiftUI, SpriteKit, CoreData)
 
 <div>
     <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?aw=true" width="500" height="320" />
