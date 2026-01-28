@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###  I'm a tech uni student
+###  I'm a Junior iOS Developer
 
-* 🔭 Currently studying iOS dev (Swift, SwiftUI, SpriteKit, CoreData)
+* 🔭 Currently working with Swift, SwiftUI, UIKit, MVVM, MVC, MVP, URLSession, Alamofire, SnapKit, Firebase, CoreData, UserDefaults
 
 <div>
     <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?aw=true" width="500" height="320" />
