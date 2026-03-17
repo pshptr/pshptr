@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###  I'm a Junior iOS Developer
+###  I'm an iOS Developer
 
 * 🔭 Currently working with Swift, SwiftUI, UIKit, MVVM, MVC, MVP, URLSession, Alamofire, SnapKit, Firebase, CoreData, UserDefaults
 
